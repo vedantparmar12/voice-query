@@ -1,0 +1,7 @@
+faster-whisper
+transformers
+edge-tts
+aiortc
+torch
+numpy
+whisper
